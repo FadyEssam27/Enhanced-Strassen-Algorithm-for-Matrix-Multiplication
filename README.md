@@ -21,12 +21,12 @@ int[,] matrix2 = /* initialize your matrix */;
 int N = /* size of the matrices */;
 
 int[,] result = MatrixMultiplication.MatrixMultiply(matrix1, matrix2, N);
-
-#Performance
+```
+##Performance
 The algorithm has been optimized for performance through parallelization and efficient memory usage.
 
-#Contributing
+##Contributing
 If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
 
-#License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
